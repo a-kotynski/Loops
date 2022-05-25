@@ -10,12 +10,12 @@ namespace ConsoleApp3
             var userInput1 = Console.ReadLine();
             //Console.WriteLine(userInput1);
 
-            while (myInt < 10)
+            while (myInt < 11)
             {
                 myInt += 1;
             }
             Console.WriteLine(myInt);
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 11; i++)
             {
 
             }
